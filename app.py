@@ -1,12 +1,3 @@
-BORSA RADAR V2 - TAM ENTEGRE KOD
-
-Regresyon Kanalı + Güçlü Sinyal Sistemi + Backtest Motoru
-
-Dosya adı önerisi: app.py
-
-Kurulum: pip install streamlit pandas numpy yfinance requests lxml html5lib beautifulsoup4
-Çalıştırma: streamlit run app.py
-
 import streamlit as st
 import pandas as pd
 import numpy as np
